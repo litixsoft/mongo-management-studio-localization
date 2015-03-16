@@ -1,21 +1,3 @@
-# mongo-management-studio-localization
-
-> All locale files of [Mongo Management Studio](http://www.litixsoft.de/english/mms/)
-
-Please feel free to add new languages/improve existing localizations.
-
-The app is splitted into different smaller apps. Therefore each locale folder contains a localization for each app.
-Currently there are 4 apps.
-
-* base - The localizations which shared in all apps
-* account - The localizations for the account app (login/change Password/logout)
-* admin - The localizations for the administration app
-* main - The main application
-
-## Author
-[Litixsoft GmbH](http://www.litixsoft.de)
-
-## License
 Copyright (C) 2015 Litixsoft GmbH <info@litixsoft.de>
 Licensed under the MIT license.
 
@@ -26,7 +8,7 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included i
+The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
