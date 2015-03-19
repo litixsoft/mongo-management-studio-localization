@@ -5,7 +5,7 @@
     "ROLES": "Roles",
     "RIGHTS": "Permisos",
     "ADMINISTRATION": "Administración",
-    "CURRENCY_SYM": "\u20ac",
+    "CURRENCY_SYM": "$",
     "AUTH_FAILED": "Acceso fallido, por favor chequee usuario y contraseña.",
     "SERVER_ERROR": "500: Internal Server Error",
     "LOGIN": "Acceso",

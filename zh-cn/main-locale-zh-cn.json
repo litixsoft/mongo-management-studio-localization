@@ -5,7 +5,7 @@
     "ROLES": "角色",
     "RIGHTS": "权限",
     "ADMINISTRATION": "管理",
-    "CURRENCY_SYM": "\u00a5",
+    "CURRENCY_SYM": "￥",
     "AUTH_FAILED": "登录失败，请检查用户名和密码。",
     "SERVER_ERROR": "500: 服务器内部错误",
     "LOGIN": "登录",
