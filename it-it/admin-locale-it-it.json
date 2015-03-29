@@ -28,7 +28,7 @@
     "ROLE_ALREADY_EXISTS": "Il ruolo esiste già.",
     "DEFAULT_LANGUAGE": "Lingua predefinita",
     "BACK_TO_OVERVIEW": "Torna alla panoramica",
-    "GROUP_USED": "L"utente è ancora parte di questo gruppo.",
+    "GROUP_USED": "L'utente è ancora parte di questo gruppo.",
     "ROLE_USED": "L'utente ha ancora questo ruolo.",
     "DELETE_USER_MSG": "Vuoi eliminare questo utente?",
     "DELETE_USER": "Elimina utente",
