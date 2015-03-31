@@ -1,6 +1,5 @@
 {
     "ADMIN_HEADER": "Bienvenido a la sección de admin",
-    "LANGUAGE_SELECT": "Inglés",
     "NAME": "Nombre",
     "ENTER_NAME": "Ingrese nombre",
     "DESCRIPTION": "Descripción",
@@ -11,7 +10,6 @@
     "PASSWORD": "Contraseña",
     "ENTER_PASSWORD": "Ingrese contrseña",
     "CONFIRM_PASSWORD": "Confirmar contraseña",
-    "LANGUAGE": "Lenguaje",
     "ADD_RIGHT": "Agregar permiso",
     "RIGHT": "Permiso",
     "HAS_ACCESS": "Tiene acceso",
