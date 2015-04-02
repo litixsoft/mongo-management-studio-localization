@@ -1,6 +1,5 @@
 {
-	"ADMIN_HEADER": "Welcome to the admin section",
-    "LANGUAGE_SELECT": "English",
+    "ADMIN_HEADER": "Welcome to the admin section",
     "NAME": "Name",
     "ENTER_NAME": "Enter name",
     "DESCRIPTION": "Description",
@@ -11,7 +10,6 @@
     "PASSWORD": "Password",
     "ENTER_PASSWORD": "Enter password",
     "CONFIRM_PASSWORD": "Confirm password",
-    "LANGUAGE": "Language",
     "ADD_RIGHT": "Add right",
     "RIGHT": "Right",
     "HAS_ACCESS": "Has access",

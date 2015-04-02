@@ -1,6 +1,5 @@
 {
     "ADMIN_HEADER": "Yönetim bölümüne hoşgeldiniz",
-    "LANGUAGE_SELECT": "Türkçe",
     "NAME": "İsim",
     "ENTER_NAME": "İsim giriniz",
     "DESCRIPTION": "Açıklama",
@@ -11,7 +10,6 @@
     "PASSWORD": "Şifre",
     "ENTER_PASSWORD": "Şifre giriniz",
     "CONFIRM_PASSWORD": "Şifreyi doğrulayın",
-    "LANGUAGE": "Dil",
     "ADD_RIGHT": "Hak ekle",
     "RIGHT": "Hak",
     "HAS_ACCESS": "Erişimi var",

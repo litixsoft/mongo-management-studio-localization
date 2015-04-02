@@ -1,6 +1,5 @@
 {
-	"ADMIN_HEADER": "Willkommen im Administrationsbereich",
-    "LANGUAGE_SELECT": "Deutsch",
+    "ADMIN_HEADER": "Willkommen im Administrationsbereich",
     "NAME": "Name",
     "ENTER_NAME": "Namen eingeben",
     "DESCRIPTION": "Beschreibung",
@@ -11,7 +10,6 @@
     "PASSWORD": "Passwort",
     "ENTER_PASSWORD": "Passwort eingeben",
     "CONFIRM_PASSWORD": "Passwort wiederholen",
-    "LANGUAGE": "Sprache",
     "ADD_RIGHT": "Recht hinzufügen",
     "RIGHT": "Rechte",
     "HAS_ACCESS": "Hat Zugriff",

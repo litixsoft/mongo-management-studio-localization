@@ -1,6 +1,5 @@
 {
     "ADMIN_HEADER": "欢迎使用管理功能",
-    "LANGUAGE_SELECT": "中文",
     "NAME": "名字",
     "ENTER_NAME": "输入名字",
     "DESCRIPTION": "描述",
@@ -11,7 +10,6 @@
     "PASSWORD": "密码",
     "ENTER_PASSWORD": "输入密码",
     "CONFIRM_PASSWORD": "确认密码",
-    "LANGUAGE": "语言",
     "ADD_RIGHT": "添加权限",
     "RIGHT": "权限",
     "HAS_ACCESS": "可访问",
