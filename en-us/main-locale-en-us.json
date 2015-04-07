@@ -319,5 +319,7 @@
     "SSH_PASSPHRASE_TEXT": "Password of the private ssh key file",
     "SSH_HOST_REQUIRED": "The SSH server is required when SSH is enabled",
     "SSH_USER_REQUIRED": "The SSH user is required when SSH is enabled",
-    "USE_AUTOCOMPLETE": "Autocomplete"
+    "USE_AUTOCOMPLETE": "Autocomplete",
+    "COLLECTION": "Collection",
+    "INDEXES": "Indexes"
 }

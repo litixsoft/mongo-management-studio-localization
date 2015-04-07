@@ -319,5 +319,7 @@
     "SSH_PASSPHRASE_TEXT": "Passwort für die SSH Schlüssel-Datei",
     "SSH_HOST_REQUIRED": "Der SSH Server muss angegeben werden wenn SSH aktiviert ist",
     "SSH_USER_REQUIRED": "Der SSH Benutzername muss angegeben werden wenn SSH aktiviert ist",
-    "USE_AUTOCOMPLETE": "Autovervollständigung"
+    "USE_AUTOCOMPLETE": "Autovervollständigung",
+    "COLLECTION": "Collection",
+    "INDEXES": "Indexe"
 }

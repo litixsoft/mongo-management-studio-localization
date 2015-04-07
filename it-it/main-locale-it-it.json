@@ -319,5 +319,7 @@
     "SSH_PASSPHRASE_TEXT": "Password della chiave privata SSH",
     "SSH_HOST_REQUIRED": "Il server SSH è obbligatorio quando è abilitato l'SSH",
     "SSH_USER_REQUIRED": "L'utente SSH è obbligatorio quando è abilitato l'SSH",
-    "USE_AUTOCOMPLETE": "Completamento automatico"
+    "USE_AUTOCOMPLETE": "Completamento automatico",
+    "COLLECTION": "Collezione",
+    "INDEXES": "Indici"
 }

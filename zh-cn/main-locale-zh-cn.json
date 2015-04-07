@@ -319,5 +319,7 @@
     "SSH_PASSPHRASE_TEXT": "私有SSH密钥文件的密码",
     "SSH_HOST_REQUIRED": "当使用SSH时，必须指定SSH服务器",
     "SSH_USER_REQUIRED": "当使用SSH时，必须指定SSH用户",
-    "USE_AUTOCOMPLETE": "自动完成"
+    "USE_AUTOCOMPLETE": "自动完成",
+    "COLLECTION": "集",
+    "INDEXES": "索引"
 }
