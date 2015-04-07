@@ -319,5 +319,7 @@
     "SSH_PASSPHRASE_TEXT": "Contraseña de la clave privada SSH",
     "SSH_HOST_REQUIRED": "El servidor SSH es requerido cuando SSH está habilitado",
     "SSH_USER_REQUIRED": "El usuario SSH es requerido cuando SSH está habilitado",
-    "USE_AUTOCOMPLETE": "Autocompletar"
+    "USE_AUTOCOMPLETE": "Autocompletar",
+    "COLLECTION": "Colección",
+    "INDEXES": "Índices"
 }

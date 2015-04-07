@@ -319,5 +319,7 @@
     "SSH_PASSPHRASE_TEXT": "SSH anahtar dosyası şifresi",
     "SSH_HOST_REQUIRED": "SSH kullanımı aktif olduğu için bir SSH sunucusu gerekiyor",
     "SSH_USER_REQUIRED": "SSH kullanımı aktif olduğu için bir SSH kullanıcısı gerekli",
-    "USE_AUTOCOMPLETE": "Otomatik tamamlama"
+    "USE_AUTOCOMPLETE": "Otomatik tamamlama",
+    "COLLECTION": "Koleksiyon",
+    "INDEXES": "Indeksler"
 }
