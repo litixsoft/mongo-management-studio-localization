@@ -319,5 +319,7 @@
     "SSH_PASSPHRASE_TEXT": "Kodeord til den private SSH-nøglefil",
     "SSH_HOST_REQUIRED": "SSH-serveren er nødvendig når SSH er slået til",
     "SSH_USER_REQUIRED": "SSH-bruger kræves når SSH er slået til",
-    "USE_AUTOCOMPLETE": "Autofuldførelse"
+    "USE_AUTOCOMPLETE": "Autofuldførelse",
+    "COLLECTION": "Samling",
+    "INDEXES": "Indekser"
 }
