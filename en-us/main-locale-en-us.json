@@ -321,5 +321,6 @@
     "SSH_USER_REQUIRED": "The SSH user is required when SSH is enabled",
     "USE_AUTOCOMPLETE": "Autocomplete",
     "COLLECTION": "Collection",
-    "INDEXES": "Indexes"
+    "INDEXES": "Indexes",
+    "ERROR_UPDATE_EMPTY_RESULT": "Record was not updated. Maybe you are using a data type for the field '_id' which is currently not supported by the app"
 }

@@ -321,5 +321,6 @@
     "SSH_USER_REQUIRED": "SSH kullanımı aktif olduğu için bir SSH kullanıcısı gerekli",
     "USE_AUTOCOMPLETE": "Otomatik tamamlama",
     "COLLECTION": "Koleksiyon",
-    "INDEXES": "Indeksler"
+    "INDEXES": "Indeksler",
+    "ERROR_UPDATE_EMPTY_RESULT": "Tutanak güncelleştirildi. Belki şu anda uygulaması tarafından desteklenmeyen alan '_id' için bir veri türü kullanıyorsunuz"
 }

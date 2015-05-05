@@ -321,5 +321,6 @@
     "SSH_USER_REQUIRED": "Der SSH Benutzername muss angegeben werden wenn SSH aktiviert ist",
     "USE_AUTOCOMPLETE": "Autovervollständigung",
     "COLLECTION": "Collection",
-    "INDEXES": "Indexe"
+    "INDEXES": "Indexe",
+    "ERROR_UPDATE_EMPTY_RESULT": "Datensatz wurde nicht gespeichert. Wahrscheinlich verwenden Sie für das Feld '_id' einen Datentyp, der noch nicht von der Anwendung unterstützt wird"
 }

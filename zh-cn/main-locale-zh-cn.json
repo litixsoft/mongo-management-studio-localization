@@ -321,5 +321,6 @@
     "SSH_USER_REQUIRED": "当使用SSH时，必须指定SSH用户",
     "USE_AUTOCOMPLETE": "自动完成",
     "COLLECTION": "集",
-    "INDEXES": "索引"
+    "INDEXES": "索引",
+    "ERROR_UPDATE_EMPTY_RESULT": "记录没有被更新。也许你正在使用的数据类型，这是目前不支持的应用程序领域的'_id'"
 }

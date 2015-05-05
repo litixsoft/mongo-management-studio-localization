@@ -321,5 +321,6 @@
     "SSH_USER_REQUIRED": "L'utente SSH è obbligatorio quando è abilitato l'SSH",
     "USE_AUTOCOMPLETE": "Completamento automatico",
     "COLLECTION": "Collezione",
-    "INDEXES": "Indici"
+    "INDEXES": "Indici",
+    "ERROR_UPDATE_EMPTY_RESULT": "Record non è stato aggiornato. Forse si sta usando un tipo di dati per il campo '_id' che non è attualmente supportata da app"
 }

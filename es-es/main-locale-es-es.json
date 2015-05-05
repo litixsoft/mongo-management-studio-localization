@@ -321,5 +321,6 @@
     "SSH_USER_REQUIRED": "El usuario SSH es requerido cuando SSH está habilitado",
     "USE_AUTOCOMPLETE": "Autocompletar",
     "COLLECTION": "Colección",
-    "INDEXES": "Índices"
+    "INDEXES": "Índices",
+    "ERROR_UPDATE_EMPTY_RESULT": "Registro no se actualizó. Tal vez usted está utilizando un tipo de datos para el campo '_id' que en la actualidad no es compatible con la aplicación"
 }
