@@ -27,7 +27,7 @@
     "MATCH_PASSWORD": "Пароли не совпадают",
     "REGISTER_MSG": "На ваш e-mail отправлено письмо с дальнейшими инструкциями.",
     "FORMAT": "Неверный формат.",
-    "FORGOT_USERNAME_DESCRIPTION": "Enter your e-mail to get your username",
+    "FORGOT_USERNAME_DESCRIPTION": "Введите ваш e-mail, чтобы получить имя пользователя",
     "USERNAME_MSG": "Имя пользоватиеля было отправлено на ваш e-mail.",
     "REQUEST": "Запрос",
     "GENERIC_ERROR": "Произошла ошибка, приносим наши извинения.",
