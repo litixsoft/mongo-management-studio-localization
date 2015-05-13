@@ -20,7 +20,7 @@
     "REQUIRED_EMAIL": "Необходимо указать E-Mail",
     "AUTH_FAILED": "Имя пользователя и/или пароль неверны",
     "AUTH_ERROR": "500: Internal Server Error",
-    "GUEST_ERROR": "Guest is a reserved name and can not be used for the login.",
+    "GUEST_ERROR": "Guest является зарезервированным именем и не может быть использован как логин.",
     "CHECKNAME": "Имя пользователя уже занято",
     "CHECKMAIL": "E-Mail уже существует",
     "MINLENGTH": "Вам необходимо использовать минимум {{length}} символов.",
