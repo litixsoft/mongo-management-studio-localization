@@ -295,7 +295,7 @@
     "CONNECTION_SSH_ALL_CLOSE": "закрыть все SSH подключения",
     "SAVE_QUERY": "Сохранить текущий запрос",
     "SAVE_QUERY_SUCCESS": "Запрос успешно сохранён.",
-    "LOAD_QUERY_LIST": "Load queries",
+    "LOAD_QUERY_LIST": "запросы запрос",
     "ERROR_SAVE_QUERY": "не удаётся сохранить текущий запрос.",
     "EMPTY_QUERY_LIST": "Для этой коллекции нет сохранённых запросов.",
     "QUERY": "Запрос",
