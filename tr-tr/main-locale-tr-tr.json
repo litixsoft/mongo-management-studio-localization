@@ -322,5 +322,17 @@
     "USE_AUTOCOMPLETE": "Otomatik tamamlama",
     "COLLECTION": "Koleksiyon",
     "INDEXES": "Indeksler",
-    "ERROR_UPDATE_EMPTY_RESULT": "Tutanak güncelleştirildi. Belki şu anda uygulaması tarafından desteklenmeyen alan '_id' için bir veri türü kullanıyorsunuz"
+    "ERROR_UPDATE_EMPTY_RESULT": "Tutanak güncelleştirildi. Belki şu anda uygulaması tarafından desteklenmeyen alan '_id' için bir veri türü kullanıyorsunuz",
+    "USE_SSL": "SSL ile bağlantı",
+    "SSL_VALIDATE": "Sertifika doğrulama",
+    "SSL_VALIDATE_TEXT": "Sertifika Otoritesi karşı sertifikasını doğrulamak",
+    "SSL_CA": "Sertifika Otoritesi kök sertifika zinciri",
+    "SSL_CA_TEXT": "Sertifika doğrulama seçildiğinde gereklidir. Mutlak dosya yolu veya metin olarak girin",
+    "SSL_CERT": "Sertifika",
+    "SSL_CERT_TEXT": "Mutlak dosya yolu veya metin olarak girin",
+    "SSL_KEY": "Sertifika anahtarı",
+    "SSL_KEY_TEXT": "Anahtar zaten sertifika dahil değilken sadece gerekli. Mutlak dosya yolu veya metin olarak girin",
+    "SSL_PASS": "Sertifika parolası",
+    "SSL_PASS_TEXT": "Sadece sertifika anahtarı şifreli olduğunda gerekli",
+    "SSL_CA_REQUIRED": "Sertifika Otoritesi kök sertifika zinciri sertifika doğrulama seçildiğinde gereklidir"
 }

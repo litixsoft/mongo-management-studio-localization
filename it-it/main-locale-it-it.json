@@ -322,5 +322,17 @@
     "USE_AUTOCOMPLETE": "Completamento automatico",
     "COLLECTION": "Collezione",
     "INDEXES": "Indici",
-    "ERROR_UPDATE_EMPTY_RESULT": "Record non è stato aggiornato. Forse si sta usando un tipo di dati per il campo '_id' che non è attualmente supportata da app"
+    "ERROR_UPDATE_EMPTY_RESULT": "Record non è stato aggiornato. Forse si sta usando un tipo di dati per il campo '_id' che non è attualmente supportata da app",
+    "USE_SSL": "Connessione su SSL",
+    "SSL_VALIDATE": "La convalida del certificato",
+    "SSL_VALIDATE_TEXT": "Convalidare il certificato contro Autorità di certificazione",
+    "SSL_CA": "Catena di certificati radice dall'autorità di certificazione",
+    "SSL_CA_TEXT": "È necessaria quando si seleziona la convalida dei certificati. Immettere il percorso del file assoluto o come testo",
+    "SSL_CERT": "Certificato",
+    "SSL_CERT_TEXT": "Immettere il percorso del file assoluto o come testo",
+    "SSL_KEY": "Chiave certificato",
+    "SSL_KEY_TEXT": "Richiesto solo quando la chiave non è già incluso nel certificato. Immettere il percorso del file assoluto o come testo",
+    "SSL_PASS": "Passphrase certificato",
+    "SSL_PASS_TEXT": "Richiesto solo quando la chiave del certificato è crittografata",
+    "SSL_CA_REQUIRED": "Catena di certificati radice dall'autorità di certificazione è necessaria quando si seleziona la convalida dei certificati"
 }

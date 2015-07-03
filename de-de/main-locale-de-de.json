@@ -322,5 +322,17 @@
     "USE_AUTOCOMPLETE": "Autovervollständigung",
     "COLLECTION": "Collection",
     "INDEXES": "Indexe",
-    "ERROR_UPDATE_EMPTY_RESULT": "Datensatz wurde nicht gespeichert. Wahrscheinlich verwenden Sie für das Feld '_id' einen Datentyp, der noch nicht von der Anwendung unterstützt wird"
+    "ERROR_UPDATE_EMPTY_RESULT": "Datensatz wurde nicht gespeichert. Wahrscheinlich verwenden Sie für das Feld '_id' einen Datentyp, der noch nicht von der Anwendung unterstützt wird",
+    "USE_SSL": "Verbindung mit SSL",
+    "SSL_VALIDATE": "Validierung der Zertifikate",
+    "SSL_VALIDATE_TEXT": "Aktiviert die Validierung der Zertifikate",
+    "SSL_CA": "Liste mit gültigen Root-Zertifikaten",
+    "SSL_CA_TEXT": "Wird benötigt, wenn die Validierung der Zertifikate aktiviert ist. Absoluter Dateipfad oder als Text eingeben",
+    "SSL_CERT": "Zertifikat",
+    "SSL_CERT_TEXT": "Absoluter Dateipfad oder als Text eingeben",
+    "SSL_KEY": "Privater Schlüssel des Zertifikats",
+    "SSL_KEY_TEXT": "Wird nur benötigt, falls der Schlüssel nicht schon im Zertifikat enthalten ist. Absoluter Dateipfad oder als Text eingeben",
+    "SSL_PASS": "Passwort für den Zertifikats Schlüssel",
+    "SSL_PASS_TEXT": "Wird nur benötigt, falls der Schlüssel mit einem Passwort geschützt ist",
+    "SSL_CA_REQUIRED": "Liste mit gültigen Root-Zertifikaten muss angegeben werden wenn die Validierung der Zertifikate aktiviert ist"
 }

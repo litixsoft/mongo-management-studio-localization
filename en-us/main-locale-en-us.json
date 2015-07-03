@@ -322,5 +322,17 @@
     "USE_AUTOCOMPLETE": "Autocomplete",
     "COLLECTION": "Collection",
     "INDEXES": "Indexes",
-    "ERROR_UPDATE_EMPTY_RESULT": "Record was not updated. Maybe you are using a data type for the field '_id' which is currently not supported by the app"
+    "ERROR_UPDATE_EMPTY_RESULT": "Record was not updated. Maybe you are using a data type for the field '_id' which is currently not supported by the app",
+    "USE_SSL": "Connect with SSL",
+    "SSL_VALIDATE": "Certificate validation",
+    "SSL_VALIDATE_TEXT": "Validate the certificate against Certificate Authority",
+    "SSL_CA": "Root certificate chain from the Certificate Authority",
+    "SSL_CA_TEXT": "Is required when certificate validation is selected. Enter the absolute file path or as text",
+    "SSL_CERT": "Certificate",
+    "SSL_CERT_TEXT": "Enter the absolute file path or as text",
+    "SSL_KEY": "Certificate key",
+    "SSL_KEY_TEXT": "Only required when the key is not already included in the certificate. Enter the absolute file path or as text",
+    "SSL_PASS": "Certificate passphrase",
+    "SSL_PASS_TEXT": "Only required when the certificate key is encrypted",
+    "SSL_CA_REQUIRED": "Root certificate chain from the Certificate Authority is required when certificate validation is selected"
 }

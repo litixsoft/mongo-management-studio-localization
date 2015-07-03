@@ -322,5 +322,17 @@
     "USE_AUTOCOMPLETE": "Autocompletar",
     "COLLECTION": "Colección",
     "INDEXES": "Índices",
-    "ERROR_UPDATE_EMPTY_RESULT": "Registro no se actualizó. Tal vez usted está utilizando un tipo de datos para el campo '_id' que en la actualidad no es compatible con la aplicación"
+    "ERROR_UPDATE_EMPTY_RESULT": "Registro no se actualizó. Tal vez usted está utilizando un tipo de datos para el campo '_id' que en la actualidad no es compatible con la aplicación",
+    "USE_SSL": "Conexión por SSL",
+    "SSL_VALIDATE": "La validación de certificados",
+    "SSL_VALIDATE_TEXT": "Validar el certificado contra la autoridad de certificación",
+    "SSL_CA": "Cadena de certificados raíz de la entidad emisora de certificados",
+    "SSL_CA_TEXT": "Se requiere cuando se selecciona la validación de certificados. Introduzca la ruta de archivo absoluto o como texto",
+    "SSL_CERT": "Certificado",
+    "SSL_CERT_TEXT": "Introduzca la ruta de archivo absoluto o como texto",
+    "SSL_KEY": "Clave certificado",
+    "SSL_KEY_TEXT": "Sólo se requiere cuando la clave no está incluido en el certificado. Introduzca la ruta de archivo absoluto o como texto",
+    "SSL_PASS": "Frase de contraseña certificado",
+    "SSL_PASS_TEXT": "Sólo es necesario cuando se cifra la clave de certificado",
+    "SSL_CA_REQUIRED": "Se requiere cadena de certificados raíz de la entidad emisora de certificados cuando se selecciona la validación de certificados"
 }

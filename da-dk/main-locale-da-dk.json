@@ -322,5 +322,17 @@
     "USE_AUTOCOMPLETE": "Autofuldførelse",
     "COLLECTION": "Samling",
     "INDEXES": "Indekser",
-    "ERROR_UPDATE_EMPTY_RESULT": "Rekord blev ikke opdateret. Måske du bruger en datatype for feltet '_id' som i øjeblikket ikke understøttes af app"
+    "ERROR_UPDATE_EMPTY_RESULT": "Rekord blev ikke opdateret. Måske du bruger en datatype for feltet '_id' som i øjeblikket ikke understøttes af app",
+    "USE_SSL": "Forbindelse via SSL",
+    "SSL_VALIDATE": "Certifikat validering",
+    "SSL_VALIDATE_TEXT": "Validere certifikatet mod Certificate Authority",
+    "SSL_CA": "Rodcertifikat kæden fra Certificate Authority",
+    "SSL_CA_TEXT": "Er påkrævet, når certifikat validering er valgt. Indtast den absolutte fil sti eller som tekst",
+    "SSL_CERT": "Certifikat",
+    "SSL_CERT_TEXT": "Indtast den absolutte fil sti eller som tekst",
+    "SSL_KEY": "Certifikat nøgle",
+    "SSL_KEY_TEXT": "Kun påkrævet, når nøglen ikke allerede indgår i certifikatet. Indtast den absolutte fil sti eller som tekst",
+    "SSL_PASS": "Certifikat løsen",
+    "SSL_PASS_TEXT": "Kun påkrævet, når certifikatet nøgle er krypteret",
+    "SSL_CA_REQUIRED": "Rodcertifikat kæden fra Certificate Authority er påkrævet, når certifikat validering er valgt"
 }

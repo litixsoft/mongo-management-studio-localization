@@ -322,5 +322,17 @@
     "USE_AUTOCOMPLETE": "自动完成",
     "COLLECTION": "集",
     "INDEXES": "索引",
-    "ERROR_UPDATE_EMPTY_RESULT": "记录没有被更新。也许你正在使用的数据类型，这是目前不支持的应用程序领域的'_id'"
+    "ERROR_UPDATE_EMPTY_RESULT": "记录没有被更新。也许你正在使用的数据类型，这是目前不支持的应用程序领域的'_id'",
+    "USE_SSL": "通过SSL连接",
+    "SSL_VALIDATE": "证书验证",
+    "SSL_VALIDATE_TEXT": "验证对证书颁发机构的证书",
+    "SSL_CA": "从证书颁发机构机构验证对根证书链中的证书",
+    "SSL_CA_TEXT": "当选择证书验证是必要的。输入绝对文件路径或作为文本",
+    "SSL_CERT": "证书",
+    "SSL_CERT_TEXT": "输入绝对文件路径或作为文本",
+    "SSL_KEY": "证书密钥",
+    "SSL_KEY_TEXT": "仅在需要时，关键是不是已经包含在证书中。输入绝对文件路径或作为文本",
+    "SSL_PASS": "证书密码",
+    "SSL_PASS_TEXT": "仅在需要时证书密钥加密",
+    "SSL_CA_REQUIRED": "当选择证书验证需要从证书颁发机构根证书链"
 }
