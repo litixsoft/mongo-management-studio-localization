@@ -231,7 +231,8 @@
     "DEFAULT_PAGE_SIZE": "Default page size",
     "DEFAULT_CONNECTION_STRING": "Default Connection",
     "DEFAULT_MONGODB_PORT": "Default MongoDB port",
-    "EXPORT_CURRENT_QUERY": "Export the current find query",
+    "EXPORT_CURRENT_QUERY": "Export all documents matching the current query",
+    "EXPORT_CURRENT_VIEW": "Export all documents of the current view",
     "EXPORT_ALL": "Export all documents",
     "EXPORT_INFO_QUERY_SELECTION": "This option is only available in Find-mode (F)",
     "IMPORT_COLLECTION": "Import documents",
@@ -334,5 +335,16 @@
     "SSL_KEY_TEXT": "Only required when the key is not already included in the certificate. Enter the absolute file path or as text",
     "SSL_PASS": "Certificate passphrase",
     "SSL_PASS_TEXT": "Only required when the certificate key is encrypted",
-    "SSL_CA_REQUIRED": "Root certificate chain from the Certificate Authority is required when certificate validation is selected"
+    "SSL_CA_REQUIRED": "Root certificate chain from the Certificate Authority is required when certificate validation is selected",
+    "EXPORT_FORMAT": "Export format",
+    "EXPORT_JSON": "JSON",
+    "EXPORT_CSV": "CSV",
+    "EXPORT_DELIMITER_FIELD": "Delimiter",
+    "EXPORT_DEFAULT_DELIMITER_FIELD": "Default delimiter is ,",
+    "EXPORT_DELIMITER_ARRAY": "Delimiter for Array values",
+    "EXPORT_DEFAULT_DELIMITER_ARRAY": "Default delimiter is ;",
+    "EXPORT_EMPTY_FIELD_VALUE": "Value for empty fields",
+    "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Default value is an empty string",
+    "SORT_HEADER": "Sort the csv header?",
+    "DELIMITER_MUST_BE_DIFFERENT": "Delimiter must be different"
 }

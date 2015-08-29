@@ -231,7 +231,8 @@
     "DEFAULT_PAGE_SIZE": "Anzahl Datensätze pro Seite",
     "DEFAULT_CONNECTION_STRING": "Standard-Verbindung",
     "DEFAULT_MONGODB_PORT": "Standard MongoDB Port",
-    "EXPORT_CURRENT_QUERY": "Exportieren der aktuellen Find-Abfrage",
+    "EXPORT_CURRENT_QUERY": "Alle Datensätze der aktuellen Find-Abfrage exportieren",
+    "EXPORT_CURRENT_VIEW": "Alle Datensätze der aktuellen Ansicht exportieren",
     "EXPORT_ALL": "Alle Datensätze exportieren",
     "EXPORT_INFO_QUERY_SELECTION": "Diese Option steht ausschließlich im Find-Modus (F) zur Verfügung",
     "IMPORT_COLLECTION": "Datensätze importieren",
@@ -334,5 +335,16 @@
     "SSL_KEY_TEXT": "Wird nur benötigt, falls der Schlüssel nicht schon im Zertifikat enthalten ist. Absoluter Dateipfad oder als Text eingeben",
     "SSL_PASS": "Passwort für den Zertifikats Schlüssel",
     "SSL_PASS_TEXT": "Wird nur benötigt, falls der Schlüssel mit einem Passwort geschützt ist",
-    "SSL_CA_REQUIRED": "Liste mit gültigen Root-Zertifikaten muss angegeben werden wenn die Validierung der Zertifikate aktiviert ist"
+    "SSL_CA_REQUIRED": "Liste mit gültigen Root-Zertifikaten muss angegeben werden wenn die Validierung der Zertifikate aktiviert ist",
+    "EXPORT_FORMAT": "Export Format",
+    "EXPORT_JSON": "JSON",
+    "EXPORT_CSV": "CSV",
+    "EXPORT_DELIMITER_FIELD": "Trennzeichen",
+    "EXPORT_DEFAULT_DELIMITER_FIELD": "Standard Trennzeichen ist ,",
+    "EXPORT_DELIMITER_ARRAY": "Trennzeichen für Datensätze innerhalb von Arrays",
+    "EXPORT_DEFAULT_DELIMITER_ARRAY": "Standard Trennzeichen ist ;",
+    "EXPORT_EMPTY_FIELD_VALUE": "Wert für leere Felder",
+    "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Standardwert ist ein leerer String",
+    "SORT_HEADER": "Tabellenüberschriften sortieren?",
+    "DELIMITER_MUST_BE_DIFFERENT": "Trennzeichen müssen unterschiedlich sein"
 }

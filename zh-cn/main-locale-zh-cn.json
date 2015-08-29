@@ -231,7 +231,8 @@
     "DEFAULT_PAGE_SIZE": "默认页面大小",
     "DEFAULT_CONNECTION_STRING": "默认连接",
     "DEFAULT_MONGODB_PORT": "默认 MongoDB 端口",
-    "EXPORT_CURRENT_QUERY": "导出当前find查询",
+    "EXPORT_CURRENT_QUERY": "导出匹配当前查询的所有文件",
+    "EXPORT_CURRENT_VIEW": "导出当前视图的所有文件",
     "EXPORT_ALL": "导出全部文档",
     "EXPORT_INFO_QUERY_SELECTION": "此选项仅在查找模式（F)",
     "IMPORT_COLLECTION": "导入文档",
@@ -334,5 +335,16 @@
     "SSL_KEY_TEXT": "仅在需要时，关键是不是已经包含在证书中。输入绝对文件路径或作为文本",
     "SSL_PASS": "证书密码",
     "SSL_PASS_TEXT": "仅在需要时证书密钥加密",
-    "SSL_CA_REQUIRED": "当选择证书验证需要从证书颁发机构根证书链"
+    "SSL_CA_REQUIRED": "当选择证书验证需要从证书颁发机构根证书链",
+    "EXPORT_FORMAT": "导出格式",
+    "EXPORT_JSON": "JSON",
+    "EXPORT_CSV": "CSV",
+    "EXPORT_DELIMITER_FIELD": "分隔符",
+    "EXPORT_DEFAULT_DELIMITER_FIELD": "默认的分隔符是 ,",
+    "EXPORT_DELIMITER_ARRAY": "分隔符的数组值",
+    "EXPORT_DEFAULT_DELIMITER_ARRAY": "默认的分隔符是 ;",
+    "EXPORT_EMPTY_FIELD_VALUE": "对于空字段值",
+    "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "默认值是一个空字符串",
+    "SORT_HEADER": "排序的CSV头?",
+    "DELIMITER_MUST_BE_DIFFERENT": "分隔符必须是不同的"
 }

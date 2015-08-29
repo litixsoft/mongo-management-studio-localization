@@ -231,7 +231,8 @@
     "DEFAULT_PAGE_SIZE": "Standard sidestørrelse",
     "DEFAULT_CONNECTION_STRING": "Standardforbindelse",
     "DEFAULT_MONGODB_PORT": "Standard MongoDB port",
-    "EXPORT_CURRENT_QUERY": "Eksportér aktuel find-forespørgsel",
+    "EXPORT_CURRENT_QUERY": "Eksportér alle dokumenter, der passer den aktuelle forespørgsel",
+    "EXPORT_CURRENT_VIEW": "Eksportér alle dokumenter i den aktuelle visning",
     "EXPORT_ALL": "Eksportér alle dokumenter",
     "EXPORT_INFO_QUERY_SELECTION": "Denne valgmulighed er kun tilgængelig i find-tilstand (F)",
     "IMPORT_COLLECTION": "Importér dokumenter",
@@ -334,5 +335,16 @@
     "SSL_KEY_TEXT": "Kun påkrævet, når nøglen ikke allerede indgår i certifikatet. Indtast den absolutte fil sti eller som tekst",
     "SSL_PASS": "Certifikat løsen",
     "SSL_PASS_TEXT": "Kun påkrævet, når certifikatet nøgle er krypteret",
-    "SSL_CA_REQUIRED": "Rodcertifikat kæden fra Certificate Authority er påkrævet, når certifikat validering er valgt"
+    "SSL_CA_REQUIRED": "Rodcertifikat kæden fra Certificate Authority er påkrævet, når certifikat validering er valgt",
+    "EXPORT_FORMAT": "Eksportér format",
+    "EXPORT_JSON": "JSON",
+    "EXPORT_CSV": "CSV",
+    "EXPORT_DELIMITER_FIELD": "Afgrænser",
+    "EXPORT_DEFAULT_DELIMITER_FIELD": "Standard afgrænser er ,",
+    "EXPORT_DELIMITER_ARRAY": "Afgrænser for array-værdier",
+    "EXPORT_DEFAULT_DELIMITER_ARRAY": "Standard afgrænser er ;",
+    "EXPORT_EMPTY_FIELD_VALUE": "Værdi for tomme felter",
+    "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Standard værd er en tom stringer",
+    "SORT_HEADER": "Sortere csv header?",
+    "DELIMITER_MUST_BE_DIFFERENT": "Afgrænser skal være anderledes"
 }

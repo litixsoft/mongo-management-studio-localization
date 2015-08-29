@@ -231,7 +231,8 @@
     "DEFAULT_PAGE_SIZE": "Dimensione di pagina predefinita",
     "DEFAULT_CONNECTION_STRING": "Connessione predefinita",
     "DEFAULT_MONGODB_PORT": "Porta predefinita di MongoDB",
-    "EXPORT_CURRENT_QUERY": "Esporta questa stringa di ricerca",
+    "EXPORT_CURRENT_QUERY": "Esportare tutti i documenti corrispondenti alla query corrente",
+    "EXPORT_CURRENT_VIEW": "Esportare tutti i documenti della vista corrente",
     "EXPORT_ALL": "Esporta tutti i documenti",
     "EXPORT_INFO_QUERY_SELECTION": "Questa opzione è disponibile solo in Find-mode (F)",
     "IMPORT_COLLECTION": "Importa documenti",
@@ -334,5 +335,16 @@
     "SSL_KEY_TEXT": "Richiesto solo quando la chiave non è già incluso nel certificato. Immettere il percorso del file assoluto o come testo",
     "SSL_PASS": "Passphrase certificato",
     "SSL_PASS_TEXT": "Richiesto solo quando la chiave del certificato è crittografata",
-    "SSL_CA_REQUIRED": "Catena di certificati radice dall'autorità di certificazione è necessaria quando si seleziona la convalida dei certificati"
+    "SSL_CA_REQUIRED": "Catena di certificati radice dall'autorità di certificazione è necessaria quando si seleziona la convalida dei certificati",
+    "EXPORT_FORMAT": "Formato esportazione",
+    "EXPORT_JSON": "JSON",
+    "EXPORT_CSV": "CSV",
+    "EXPORT_DELIMITER_FIELD": "Delimitatore",
+    "EXPORT_DEFAULT_DELIMITER_FIELD": "Delimitatore predefinito è ,",
+    "EXPORT_DELIMITER_ARRAY": "Separatore per valori Array",
+    "EXPORT_DEFAULT_DELIMITER_ARRAY": "Delimitatore predefinito è ;",
+    "EXPORT_EMPTY_FIELD_VALUE": "Valore qualità-campi vuoti",
+    "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Il valore predefinito è una stringa vuota",
+    "SORT_HEADER": "Ordinare l'intestazione csv?",
+    "DELIMITER_MUST_BE_DIFFERENT": "Delimitatore deve essere diverso"
 }

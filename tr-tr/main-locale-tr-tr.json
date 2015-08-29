@@ -231,7 +231,8 @@
     "DEFAULT_PAGE_SIZE": "Varsayılan 'page' boyutu",
     "DEFAULT_CONNECTION_STRING": "Varsayılan bağlantı",
     "DEFAULT_MONGODB_PORT": "Varsayılan MongoDB port'u",
-    "EXPORT_CURRENT_QUERY": "Arama sorgusunu kaydet",
+    "EXPORT_CURRENT_QUERY": "Geçerli sorgusuyla eşleşen tüm belgeleri İhracat",
+    "EXPORT_CURRENT_VIEW": "Geçerli görünümün tüm belgeleri İhracat",
     "EXPORT_ALL": "Tüm dokümanları dışarıya aktar",
     "EXPORT_INFO_QUERY_SELECTION": "Bu seçenek Bul-modunda kullanılabilir (F)",
     "IMPORT_COLLECTION": "Dokümanları içeriye aktar",
@@ -334,5 +335,16 @@
     "SSL_KEY_TEXT": "Anahtar zaten sertifika dahil değilken sadece gerekli. Mutlak dosya yolu veya metin olarak girin",
     "SSL_PASS": "Sertifika parolası",
     "SSL_PASS_TEXT": "Sadece sertifika anahtarı şifreli olduğunda gerekli",
-    "SSL_CA_REQUIRED": "Sertifika Otoritesi kök sertifika zinciri sertifika doğrulama seçildiğinde gereklidir"
+    "SSL_CA_REQUIRED": "Sertifika Otoritesi kök sertifika zinciri sertifika doğrulama seçildiğinde gereklidir",
+    "EXPORT_FORMAT": "Ihracat biçimi",
+    "EXPORT_JSON": "JSON",
+    "EXPORT_CSV": "CSV",
+    "EXPORT_DELIMITER_FIELD": "Sınırlayıcı",
+    "EXPORT_DEFAULT_DELIMITER_FIELD": "Varsayılan ayraç olduğunu ,",
+    "EXPORT_DELIMITER_ARRAY": "Dizi değerleri için Sınırlayıcı",
+    "EXPORT_DEFAULT_DELIMITER_ARRAY": "Varsayılan ayraç olduğunu ;",
+    "EXPORT_EMPTY_FIELD_VALUE": "Boş alanlar için değer",
+    "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Varsayılan değer boş bir dizedir",
+    "SORT_HEADER": "Csv başlığını sıralayın?",
+    "DELIMITER_MUST_BE_DIFFERENT": "Sınırlayıcı farklı olmalıdır"
 }
