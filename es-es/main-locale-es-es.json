@@ -346,5 +346,6 @@
     "EXPORT_EMPTY_FIELD_VALUE": "Valor para los campos vacíos",
     "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "El valor predeterminado es una cadena vacía",
     "SORT_HEADER": "Clasificar la cabecera csv?",
-    "DELIMITER_MUST_BE_DIFFERENT": "Delimitador debe ser diferente"
+    "DELIMITER_MUST_BE_DIFFERENT": "Delimitador debe ser diferente",
+    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Valor para los campos vacíos deben ser diferentes de los delimitadores"
 }

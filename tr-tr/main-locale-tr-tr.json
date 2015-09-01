@@ -346,5 +346,6 @@
     "EXPORT_EMPTY_FIELD_VALUE": "Boş alanlar için değer",
     "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Varsayılan değer boş bir dizedir",
     "SORT_HEADER": "Csv başlığını sıralayın?",
-    "DELIMITER_MUST_BE_DIFFERENT": "Sınırlayıcı farklı olmalıdır"
+    "DELIMITER_MUST_BE_DIFFERENT": "Sınırlayıcı farklı olmalıdır",
+    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Boş alanlar için değer sınırlayıcı farklı olmalıdır"
 }

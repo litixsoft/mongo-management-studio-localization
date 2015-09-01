@@ -346,5 +346,6 @@
     "EXPORT_EMPTY_FIELD_VALUE": "Wert für leere Felder",
     "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Standardwert ist ein leerer String",
     "SORT_HEADER": "Tabellenüberschriften sortieren?",
-    "DELIMITER_MUST_BE_DIFFERENT": "Trennzeichen müssen unterschiedlich sein"
+    "DELIMITER_MUST_BE_DIFFERENT": "Trennzeichen müssen unterschiedlich sein",
+    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Wert für leere Felder muss sich von den Trennzeichen unterscheiden"
 }

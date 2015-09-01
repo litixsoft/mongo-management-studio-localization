@@ -346,5 +346,6 @@
     "EXPORT_EMPTY_FIELD_VALUE": "Valore qualità-campi vuoti",
     "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Il valore predefinito è una stringa vuota",
     "SORT_HEADER": "Ordinare l'intestazione csv?",
-    "DELIMITER_MUST_BE_DIFFERENT": "Delimitatore deve essere diverso"
+    "DELIMITER_MUST_BE_DIFFERENT": "Delimitatore deve essere diverso",
+    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Valore qualità-campi vuoti deve essere diverso da delimitatori"
 }

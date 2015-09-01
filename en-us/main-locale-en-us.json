@@ -346,5 +346,6 @@
     "EXPORT_EMPTY_FIELD_VALUE": "Value for empty fields",
     "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Default value is an empty string",
     "SORT_HEADER": "Sort the csv header?",
-    "DELIMITER_MUST_BE_DIFFERENT": "Delimiter must be different"
+    "DELIMITER_MUST_BE_DIFFERENT": "Delimiter must be different",
+    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Value for empty fields must be different from the delimiters"
 }

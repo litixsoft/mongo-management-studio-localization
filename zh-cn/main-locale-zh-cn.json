@@ -346,5 +346,6 @@
     "EXPORT_EMPTY_FIELD_VALUE": "对于空字段值",
     "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "默认值是一个空字符串",
     "SORT_HEADER": "排序的CSV头?",
-    "DELIMITER_MUST_BE_DIFFERENT": "分隔符必须是不同的"
+    "DELIMITER_MUST_BE_DIFFERENT": "分隔符必须是不同的",
+    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "对于空字段值必须分隔符不同"
 }

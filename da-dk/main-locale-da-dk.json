@@ -346,5 +346,6 @@
     "EXPORT_EMPTY_FIELD_VALUE": "Værdi for tomme felter",
     "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Standard værd er en tom stringer",
     "SORT_HEADER": "Sortere csv header?",
-    "DELIMITER_MUST_BE_DIFFERENT": "Afgrænser skal være anderledes"
+    "DELIMITER_MUST_BE_DIFFERENT": "Afgrænser skal være anderledes",
+    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Værdi for tomme felter skal være forskellig fra de afgrænsere"
 }
