@@ -347,5 +347,9 @@
     "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Значение по умолчанию является пустая строка",
     "SORT_HEADER": "Сортировать заголовок CSV?",
     "DELIMITER_MUST_BE_DIFFERENT": "Разделитель должен отличаться",
-    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Значение для пустых полей должны отличаться от разделителями"
+    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Значение для пустых полей должны отличаться от разделителями",
+    "USERNAME_DESTINATION_DB_TEXT": "Имя для базы данных назначения",
+    "PASSWORD_DESTINATION_DB_TEXT": "Пароль для базы данных назначения",
+    "USERNAME_CONNECT_TEXT": "Имя для подключения",
+    "PASSWORD_CONNECT_TEXT": "Пароль для подключения"
 }

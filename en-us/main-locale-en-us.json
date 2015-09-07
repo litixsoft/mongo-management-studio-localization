@@ -347,5 +347,9 @@
     "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Default value is an empty string",
     "SORT_HEADER": "Sort the csv header?",
     "DELIMITER_MUST_BE_DIFFERENT": "Delimiter must be different",
-    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Value for empty fields must be different from the delimiters"
+    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Value for empty fields must be different from the delimiters",
+    "USERNAME_DESTINATION_DB_TEXT": "Username for the destination database",
+    "PASSWORD_DESTINATION_DB_TEXT": "Password for the destination database",
+    "USERNAME_CONNECT_TEXT": "Username for the connection",
+    "PASSWORD_CONNECT_TEXT": "Password for the connection"
 }

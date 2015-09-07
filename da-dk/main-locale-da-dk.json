@@ -347,5 +347,9 @@
     "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Standard værd er en tom stringer",
     "SORT_HEADER": "Sortere csv header?",
     "DELIMITER_MUST_BE_DIFFERENT": "Afgrænser skal være anderledes",
-    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Værdi for tomme felter skal være forskellig fra de afgrænsere"
+    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Værdi for tomme felter skal være forskellig fra de afgrænsere",
+    "USERNAME_DESTINATION_DB_TEXT": "Brugernavn til destinationen databasen",
+    "PASSWORD_DESTINATION_DB_TEXT": "Adgangskode for the destination database",
+    "USERNAME_CONNECT_TEXT": "Brugernavn til forbindelsen",
+    "PASSWORD_CONNECT_TEXT": "Adgangskode til forbindelsen"
 }

@@ -347,5 +347,9 @@
     "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Il valore predefinito è una stringa vuota",
     "SORT_HEADER": "Ordinare l'intestazione csv?",
     "DELIMITER_MUST_BE_DIFFERENT": "Delimitatore deve essere diverso",
-    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Valore qualità-campi vuoti deve essere diverso da delimitatori"
+    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Valore qualità-campi vuoti deve essere diverso da delimitatori",
+    "USERNAME_DESTINATION_DB_TEXT": "Nome utente per il database di destinazione",
+    "PASSWORD_DESTINATION_DB_TEXT": "Password per il database di destinazione",
+    "USERNAME_CONNECT_TEXT": "Nome utente per la connessione",
+    "PASSWORD_CONNECT_TEXT": "Password per la connessione"
 }

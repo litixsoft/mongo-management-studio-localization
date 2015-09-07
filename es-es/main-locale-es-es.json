@@ -347,5 +347,9 @@
     "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "El valor predeterminado es una cadena vacía",
     "SORT_HEADER": "Clasificar la cabecera csv?",
     "DELIMITER_MUST_BE_DIFFERENT": "Delimitador debe ser diferente",
-    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Valor para los campos vacíos deben ser diferentes de los delimitadores"
+    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Valor para los campos vacíos deben ser diferentes de los delimitadores",
+    "USERNAME_DESTINATION_DB_TEXT": "Nombre de usuario para la base de datos de destino",
+    "PASSWORD_DESTINATION_DB_TEXT": "Contraseña de la base de datos de destino",
+    "USERNAME_CONNECT_TEXT": "Nombre de usuario para la conexión",
+    "PASSWORD_CONNECT_TEXT": "Contraseña para la conexión"
 }

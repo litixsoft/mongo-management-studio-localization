@@ -347,5 +347,9 @@
     "EXPORT_DEFAULT_EMPTY_FIELD_VALUE": "Varsayılan değer boş bir dizedir",
     "SORT_HEADER": "Csv başlığını sıralayın?",
     "DELIMITER_MUST_BE_DIFFERENT": "Sınırlayıcı farklı olmalıdır",
-    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Boş alanlar için değer sınırlayıcı farklı olmalıdır"
+    "EMPTY_FIELD_VALUE_MUST_BE_DIFFERENT_FROM_DELIMITERS": "Boş alanlar için değer sınırlayıcı farklı olmalıdır",
+    "USERNAME_DESTINATION_DB_TEXT": "Hedef veritabanı için kullanıcı adı",
+    "PASSWORD_DESTINATION_DB_TEXT": "Hedef veritabanı için şifre",
+    "USERNAME_CONNECT_TEXT": "Bağlantı için kullanıcı adı",
+    "PASSWORD_CONNECT_TEXT": "Bağlantı için şifre"
 }
